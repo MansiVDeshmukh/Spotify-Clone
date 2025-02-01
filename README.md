@@ -1,5 +1,5 @@
 # Spotify-Clone
-Here's a short introductory description you can add to your README:  
+Here's a short introductory description:  
 
 ---
 
