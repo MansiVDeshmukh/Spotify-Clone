@@ -9,8 +9,6 @@ This **Spotify Clone** is a front-end web project designed to replicate the look
 
 ---
 
-Let me know if you'd like any tweaks! 🚀
-
 Technologies Used
 🖥 HTML – To structure web pages.
 🎨 CSS – For styling, layout, and responsiveness.
